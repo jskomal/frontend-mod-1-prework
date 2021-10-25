@@ -49,4 +49,4 @@ can be used with nonBoolean data types as well.
 
 1. What questions do you still have about `if` statements and/or functions?
 
-I feel solid on their application, I just need more practice implementing them into actual useful projects and applications.
+I feel solid on their application, I just need more practice implementing them into actual useful projects and applications!
