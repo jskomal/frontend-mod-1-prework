@@ -24,11 +24,11 @@ console.log("Is numberTeachers greater than numberStudents?", numberTeachers > n
 
 // YOU DO: log the result of the comparison: is numberTeachers less than numberStudents?
 // this should log: true
-console.log('is numberTeachers less than numberStudents?', numberTeachers < numberStudents);
+console.log('Is numberTeachers less than numberStudents?', numberTeachers < numberStudents);
 
 // YOU DO: log the result of the comparison: is numberTeachers equal to stringTeachers? (use the == operator)
 // this should log: true
-console.log('is numberTeachers equal to stringTeachers?', numberTeachers == stringTeachers);
+console.log('Is numberTeachers equal to stringTeachers?', numberTeachers == stringTeachers);
 /*
 Note: this is an example of type coercion. Although stringTeachers is a string and numberStudents is an integer,
 this statement still evaluated to true. JavaScript forces the stringTeachers into an integer to
@@ -37,7 +37,7 @@ perform this evaluation
 
 // YOU DO: log the result of the comparison: is numberTeachers strictly equal to stringTeachers? (use the === operator)
 // this should log: false
-console.log('is numberTeachers stricly equal to stringTeachers?', numberTeachers === stringTeachers);
+console.log('Is numberTeachers stricly equal to stringTeachers?', numberTeachers === stringTeachers);
 /*
 Note: the strictly equal to operator compares the value of the variable in addition to the type of the variable.
 since the numberTeachers is an integer value and the stringTeachers is a string value, although they are both equal to 4,

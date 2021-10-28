@@ -37,6 +37,9 @@ animals.push('Lion');
 
 // YOU DO: Write code that will log the String "Elephant" in the animals array
 console.log(longTrunk);
+//you may also mean to add 'Elephant' back to the array, which would use
+animals.push('Elephant');
+console.log(animals);
 
 //-------------------
 // PART 2: Foods: Array Methods

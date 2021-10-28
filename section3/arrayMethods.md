@@ -35,3 +35,4 @@ console.log(array2.unshift(1, 28));
 
 console.log(array2);
 // Array [1, 28, 10, 20, 30, 45]
+```
